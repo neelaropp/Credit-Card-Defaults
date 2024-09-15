@@ -1,1 +1,1 @@
-# Credit-Card-Defaults
+This project analyzed credit card default risk using the "Default of Credit Card Clients" dataset. Key features like payment status, age, and credit limit were assessed using Logistic Regression, Random Forest, and PCA. Random Forest emerged as the best model, revealing that late payment history is the strongest predictor of defaults, aiding banks in better risk management.
